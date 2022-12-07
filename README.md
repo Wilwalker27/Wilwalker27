@@ -27,5 +27,3 @@
   ![Snake animation](https://github.com/wilwalker27/wilwalker27/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Wilwalker271&repo=Wilwalker27&theme=react)](https://github.com/Wilwalker27)
